@@ -1,3 +1,8 @@
-Source code of mobile games developed in Unity3D and C# and launched on the Android and iOS platforms in the early 2015. 
 
-I believe that the games have run their course and were downloaded by over 50,000 users in their peak time. We can now make the source code available to users to adopt, review and learn. Happy Learning!
+Source code of mobile games developed in Unity3D and C# and launched on the Android and iOS platforms in the early 2015.
+
+ShadeShift was cross platform mobile game released in the mid 2015. I believe that the game has run its course and was downloaded by over 50,000 users. We can now make the source code available to users and first time game developers to adopt, review and learn. Happy Learning!
+
+The scripts for the project can be found in the Assets folder which basically control all the animations, sprites, audio and pop ups which build the mobile gaming experience.
+
+Android and iOS platform specific packages can be found in plugins under assets.
